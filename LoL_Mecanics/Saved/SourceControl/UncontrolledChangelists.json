@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/TopDown/Input/IMC_Default.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/Bleuprints/Orianna_Spells/BP_Orianna_QSpell.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/Champions/Orianna/BP_OriannaController.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/Champions/Orianna/BP_Orianna.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/TopDown/Input/Actions/IA_ESpell2.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/TopDown/Input/Actions/IA_QSpell.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/TopDown/Input/Actions/IA_RSpell3.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/TopDown/Input/Actions/IA_WSpell1.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/Bleuprints/UI/WG_PlayerHUD.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/Champions/BP_Orianna.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/Champions/BP_Champion.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/LoL_Mecanics/Content/Champions/BP_OriannaController.uasset"
+			]
+		}
+	]
+}
