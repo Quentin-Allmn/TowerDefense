@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/brune/Documents/GitHub/TowerDefense/TowerDefense/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/brune/Documents/GitHub/TowerDefense/TowerDefense/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/brune/Documents/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/NewIKRig.uasset",
+				"C:/Users/brune/Documents/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Pirate_IKRig.uasset",
+				"C:/Users/brune/Documents/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Mannequin_IKRig.uasset",
+				"C:/Users/brune/Documents/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/NewIKRetargeter.uasset"
+			]
+		}
+	]
+}
