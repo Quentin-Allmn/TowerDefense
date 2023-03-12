@@ -14,6 +14,17 @@
 				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/BP_Pirate01.uasset",
 				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Characters/Animation/Idle_SwordShieldAnim.uasset",
 				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/NewIKRetargeter.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/BP_Pirate02.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Animation_Retarget/Mannequin_IKRig.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Animation_Retarget/NewIKRetargeter.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Animation_Retarget/Pirate_IKRig.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Pirate_IKRig.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Mannequin_IKRig.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/BP_EnemieSpawner.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Pirates/BP_Pirate02.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Pirates/BP_Pirate01.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/Pirates/BP_Pirate03.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Maps/GameMap.umap",
 				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Projectiles/BP_CannonBall.uasset",
 				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/BP_Mana.uasset"
 			]
