@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Projectiles/BP_CannonBall.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/BP_Mana.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Projectiles/BP_CannonBall01.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Projectiles/BP_CannonBall02.uasset"
+			]
+		}
+	]
+}
