@@ -6,10 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Projectiles/BP_CannonBall.uasset",
-				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/BP_Mana.uasset",
 				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Projectiles/BP_CannonBall01.uasset",
-				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Projectiles/BP_CannonBall02.uasset"
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Projectiles/BP_CannonBall02.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Maps/Menus/EndMenu.umap",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Characters/Animation/AB_Pirates.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Characters/Animation/BattleWalk_noWeaponAnim.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/BP_Pirate01.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Characters/Animation/Idle_SwordShieldAnim.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Enemies/NewIKRetargeter.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/Projectiles/BP_CannonBall.uasset",
+				"D:/Projet Unreal/GitHub/TowerDefense/TowerDefense/Content/Bleuprints/BP_Mana.uasset"
 			]
 		}
 	]
